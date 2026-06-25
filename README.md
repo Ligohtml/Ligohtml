@@ -9,7 +9,7 @@
 
 ## 🧠 About Me
 
-I'm an ML Engineer specializing in applied machine learning — from LLM agents to deep learning for medical imaging.
+I'm an ML Engineer specializing in applied machine learning from LLM agents to deep learning for medical imaging.
 I love tackling complex problems at the intersection of physics, AI, and engineering.
 
 When I'm not training models, I play guitar in the indie-rock band **Flashbangerz** 🎸
