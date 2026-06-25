@@ -1,4 +1,4 @@
-![banner](./star wars pixel GIF.gif)
+![banner](./star_wars_pixel_GIF.gif)
 
 # Hi, I'm Alessandro Golinelli 👋
 
