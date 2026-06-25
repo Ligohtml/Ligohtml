@@ -1,4 +1,4 @@
-## Hi there 👋
+![descrizione]([https://url-della-tua-gif.gif](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExdHUzcDFmaHk5bGZrajRrc2ZhbGszdWh1eTh1Ymlxa3NoZzIzYmVyeiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/a5tHnpiMx4uiY/giphy.gif))
 # Hi, I'm Alessandro Golinelli 👋
 
 🎓 **AI Master's candidate** @ UniMiB / UniMI / UniPV  
