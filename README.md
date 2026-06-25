@@ -39,12 +39,6 @@ When I'm not training models, I play guitar in the indie-rock band **Flashbanger
 
 ---
 
-## 📊 GitHub Stats
-
-![Alessandro's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ligohtml&show_icons=true&theme=dark)
-
----
-
 ## 📬 Contacts
 
 [![Email](https://img.shields.io/badge/-a.golinelli2@campus.unimib.it-D14836?style=flat&logo=gmail&logoColor=white)](mailto:a.golinelli2@campus.unimib.it)
