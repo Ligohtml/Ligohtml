@@ -1,5 +1,3 @@
-![banner](./star_wars_pixel_GIF.gif)
-
 # Hi, I'm Alessandro Golinelli 👋
 
 🎓 **AI Master's candidate** @ UniMiB / UniMI / UniPV  
